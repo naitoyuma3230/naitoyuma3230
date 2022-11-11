@@ -1,3 +1,3 @@
-## HELLO GITHU
+## HELLO GITHUB
 
 ### よろしくね。
