@@ -1,3 +1,3 @@
 ## HELLO GITHU
 
-### Thisi is my repository
+### よろしくね。
