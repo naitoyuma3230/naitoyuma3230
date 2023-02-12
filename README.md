@@ -3,28 +3,23 @@
  理学療法士として病院で働く中で治療効果の定量評価のためにスマートフォンのアプリを作成したのをきっかけに転職しました。 
  現在はフロントエンドエンジニアとして医療・介護事業所向けのシステム開発会社で現場の業務フローに合わせた画面設計やUI設計を行っています。
 
- <a style="margin:0 5px; display:flex; text-decoration:none; align-item:center" href="https://naito-portfolio.netlify.app">
-<div style="display:flex; align-item:center">
-   <img src="https://logo.clearbit.com/naito-portfolio.netlify.app" width="50" style="border-radius:10px" />
-   <div style='margin-left:8px; font-size:2rem; color:#008a92;'>
-   Portfolip
-   </div>
- </div>
-</a>
-
 #### 各種プロフィール
+
 <div style="display:flex">
  <a style="margin:0 5px;" href="https://www.wantedly.com/id/naito_yuma">
-  <img src="https://logo.clearbit.com/wantedly.com" width="50" style="border-radius:10px" />
+  <img src="https://logo.clearbit.com/wantedly.com" width="60" style="border-radius:10px" />
  </a>
   <a style="margin:0 5px;" href="https://lapras.com/public/QB2AXDH">
-  <img src="https://logo.clearbit.com/lapras.com" width="50" style="border-radius:10px" />
+  <img src="https://logo.clearbit.com/lapras.com" width="60" style="border-radius:10px" />
  </a>
    <a style="margin:0 5px;" href="https://findy-code.io/share_profiles/2C29oSrNNElKH">
-  <img src="https://logo.clearbit.com/findy-code.io" width="50" style="border-radius:10px" />
+  <img src="https://logo.clearbit.com/findy-code.io" width="60" style="border-radius:10px" />
  </a>
   <a style="margin:0 5px;" href="https://portfolio.forkwell.com/@naitoyuma3230">
-  <img src="https://logo.clearbit.com/forkwell.com" width="50" style="border-radius:10px" />
+  <img src="https://logo.clearbit.com/forkwell.com" width="60" style="border-radius:10px" />
+ </a>
+  <a style="margin:0 5px;" href="https://naito-portfolio.netlify.app">
+   <img src="https://logo.clearbit.com/naito-portfolio.netlify.app" width="60" style="border-radius:10px" />
  </a>
 </div>
 
