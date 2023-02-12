@@ -5,7 +5,7 @@
 
 <div style="display:flex">
  <a href="https://www.wantedly.com/id/naito_yuma">
-  <img src="https://logo.clearbit.com/wantedly.com" style="width:10px" />
+  <img src="https://logo.clearbit.com/wantedly.com" width="20px" />
  </a>
 </div>
 [Portfolio ](https://naito-portfolio.netlify.app/)
