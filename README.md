@@ -4,7 +4,7 @@
  IT業界にエンジニアとして転職したのは、治療効果の定量評価のために、スマートフォンのアプリを作成したのをきっかけに、ITにより業界の課題を解決したいと思ったからです。現在所属する会社は医療・介護事業所向けシステム開発を行っており、私はフロントエンドエンジニアとして現場の業務フローに合わせた画面設計やUI設計を行っています。
 
 <div style="display:flex">
- <a href="https://naito-portfolio.netlify.app" style="width:20px">
+ <a href="https://www.wantedly.com/id/naito_yuma" style="width:20px">
   <img src="https://logo.clearbit.com/wantedly.com" />
  </a>
 </div>
