@@ -11,6 +11,10 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitoyuma3230&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 #### 転職後の医療・介護分野での取り組み
 
 [講演会の講師など](https://www.pt-ot-st.net/index.php/seminar/detail/84749/preview)
