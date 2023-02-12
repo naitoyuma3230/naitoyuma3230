@@ -4,7 +4,7 @@
  IT業界にエンジニアとして転職したのは、治療効果の定量評価のために、スマートフォンのアプリを作成したのをきっかけに、ITにより業界の課題を解決したいと思ったからです。現在所属する会社は医療・介護事業所向けシステム開発を行っており、私はフロントエンドエンジニアとして現場の業務フローに合わせた画面設計やUI設計を行っています。
 
 <div style="display:flex">
- <a href="https://www.wantedly.com/id/naito_yuma" style="width:20px">
+ <a href="https://www.wantedly.com/id/naito_yuma" style="width:10px">
   <img src="https://logo.clearbit.com/wantedly.com" />
  </a>
 </div>
@@ -33,9 +33,11 @@
 
 [「注意障害に対し二重課題に着目した介入を行い, 家庭内役割を再獲得した症例」](https://mol.medicalonline.jp/search/result?from=form_simple&query=%C6%E2%C6%A3%CD%B4%C7%CF&num=20)
 
+
 - 常葉大学フォーラム講演発表
 
 「つまずき後、転倒回避戦略のバイオメカニクス」
+
 
 - 加速度センサーアプリの開発
 
