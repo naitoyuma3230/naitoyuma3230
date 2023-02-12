@@ -5,7 +5,7 @@
 
   <a style="margin:0 5px; display:flex; text-decoration:none; align-item:center" href="https://naito-portfolio.netlify.app">
    <img src="https://logo.clearbit.com/naito-portfolio.netlify.app" width="50" style="border-radius:10px" />
-   <div style='margin-left:8px; font-size:2rem; color:#008a92; padding:auto 0'>
+   <div style='margin-left:8px; font-size:2rem; color:#008a92;'>
    Portfolip
    </div>
  </a>
