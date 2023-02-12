@@ -3,12 +3,14 @@
  理学療法士として病院で働く中で治療効果の定量評価のためにスマートフォンのアプリを作成したのをきっかけに転職しました。 
  現在はフロントエンドエンジニアとして医療・介護事業所向けのシステム開発会社で現場の業務フローに合わせた画面設計やUI設計を行っています。
 
-  <a style="margin:0 5px; display:flex; text-decoration:none; align-item:center" href="https://naito-portfolio.netlify.app">
+ <a style="margin:0 5px; display:flex; text-decoration:none; align-item:center" href="https://naito-portfolio.netlify.app">
+<div style="display:flex; align-item:center">
    <img src="https://logo.clearbit.com/naito-portfolio.netlify.app" width="50" style="border-radius:10px" />
    <div style='margin-left:8px; font-size:2rem; color:#008a92;'>
    Portfolip
    </div>
- </a>
+ </div>
+</a>
 
 #### 各種プロフィール
 <div style="display:flex">
