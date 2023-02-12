@@ -14,6 +14,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,jquery,vue,nuxtjs,vite,scss,tailwind,php,laravel,py,docker,azure,firebase)]
 
+<p align="center">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,ts,jquery,vue,nuxtjs,vite,scss,tailwind,php,laravel,py,docker,azure,firebase)" />
+</p>
 
 #### 転職後の医療・介護分野での取り組み
 
