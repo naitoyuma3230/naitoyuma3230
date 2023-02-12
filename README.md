@@ -40,18 +40,18 @@
 
 
 #### 前職の活動
-- 静岡県理学療法学会　発表・優秀賞など
+静岡県理学療法学会　発表・優秀賞など
 
 [「くも膜下出血後前庭機能低下に対し感覚入力に着目した介入を行い, 自宅退院に至った症例」](https://mol.medicalonline.jp/search/result?from=form_simple&query=%C6%E2%C6%A3%CD%B4%C7%CF&num=20)
 
 [「注意障害に対し二重課題に着目した介入を行い, 家庭内役割を再獲得した症例」](https://mol.medicalonline.jp/search/result?from=form_simple&query=%C6%E2%C6%A3%CD%B4%C7%CF&num=20)
 
 
-- 常葉大学フォーラム講演発表
+常葉大学フォーラム講演発表
 
 「つまずき後、転倒回避戦略のバイオメカニクス」
 
 
-- 加速度センサーアプリの開発
+加速度センサーアプリの開発
 
 [「デバイスを利用した力学データ計測 iPhone加速度センサーを利用した身体動揺の評価」](https://docs.google.com/presentation/d/15LNVibVr49zHP8qz6Q8uPN088N5qiy3Lrc9ewvshvY0/edit?usp=sharing)
