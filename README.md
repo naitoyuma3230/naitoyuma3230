@@ -13,9 +13,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitoyuma3230&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,jquery,vue,nuxtjs,vite,scss,tailwind,php,laravel,py,docker,azure,firebase" />
-  </a>
 </p>
 
 #### 転職後の医療・介護分野での取り組み
