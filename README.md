@@ -22,6 +22,7 @@
 - 静岡県理学療法学会　発表・優秀賞など
 
 [「くも膜下出血後前庭機能低下に対し感覚入力に着目した介入を行い, 自宅退院に至った症例」](https://mol.medicalonline.jp/search/result?from=form_simple&query=%C6%E2%C6%A3%CD%B4%C7%CF&num=20)
+
 [「注意障害に対し二重課題に着目した介入を行い, 家庭内役割を再獲得した症例」](https://mol.medicalonline.jp/search/result?from=form_simple&query=%C6%E2%C6%A3%CD%B4%C7%CF&num=20)
 
 - 常葉大学フォーラム講演発表
