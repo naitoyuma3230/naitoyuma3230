@@ -3,8 +3,11 @@
  私は前職では7年間リハビリ病院で働き様々な疾患や生活背景を持つ患者のリハビリを担当しました。その中で医療、介護分野における人手不足、労働負担の増加により質よりも量を優先せざるを得ない場面を多々経験しました。
  IT業界にエンジニアとして転職したのは、治療効果の定量評価のために、スマートフォンのアプリを作成したのをきっかけに、ITにより業界の課題を解決したいと思ったからです。現在所属する会社は医療・介護事業所向けシステム開発を行っており、私はフロントエンドエンジニアとして現場の業務フローに合わせた画面設計やUI設計を行っています。
 
-<img src="https://logo.clearbit.com/wantedly.com" />
-
+<div style="display:flex">
+ <a href="https://naito-portfolio.netlify.app" style="width:20px">
+  <img src="https://logo.clearbit.com/wantedly.com" />
+ </a>
+</div>
 [Portfolio ](https://naito-portfolio.netlify.app/)
 [Wantedly ](https://www.wantedly.com/id/naito_yuma)
 
