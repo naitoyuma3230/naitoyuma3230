@@ -1,10 +1,10 @@
-#### 理学療法士からプログラマー 
+### 理学療法士からプログラマー 
 
  理学療法士として病院で働く中で治療効果の定量評価のためにスマートフォンのアプリを作成したのをきっかけに転職しました。 
  現在はフロントエンドエンジニアとして医療・介護事業所向けのシステム開発会社で現場の業務フローに合わせた画面設計やUI設計を行っています。
  
  
-#### 各種プロフィール
+### 各種プロフィール
 
 <div style="display:flex">
   <a style="margin:0 5px;" href="https://naito-portfolio.netlify.app">
@@ -24,7 +24,7 @@
  </a>
 </div>
 
-#### フロントエンドエンジニア
+### フロントエンドエンジニア
 ご縁を頂き東証プライム上場のIT企業にプログラマーとして就職しました。医療、介護に関するシステム開発をしている会社です。私はフロントエンドでJavascriptのフレームワークであるjQueryやVueを使用しています。また前職の経験から現場スタッフの使いやすい画面設計、UIを心がけています。
 
 
@@ -34,12 +34,12 @@
     <img src="https://skillicons.dev/icons?i=js,ts,jquery,vue,nuxtjs,vite,scss,tailwind,php,laravel,py,docker,azure,firebase" />
 </p>
 
-#### 転職後の医療・介護分野での取り組み
+### 転職後の医療・介護分野での取り組み
 
 [講演会の講師など](https://www.pt-ot-st.net/index.php/seminar/detail/84749/preview)
 
 
-#### 前職の活動
+### 前職の活動
 静岡県理学療法学会　発表・優秀賞など
 
 [「くも膜下出血後前庭機能低下に対し感覚入力に着目した介入を行い, 自宅退院に至った症例」](https://mol.medicalonline.jp/search/result?from=form_simple&query=%C6%E2%C6%A3%CD%B4%C7%CF&num=20)
