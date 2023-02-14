@@ -54,4 +54,4 @@
 
 加速度センサーアプリの開発
 
-[「デバイスを利用した力学データ計測 iPhone加速度センサーを利用した身体動揺の評価」](https://docs.google.com/presentation/d/15LNVibVr49zHP8qz6Q8uPN088N5qiy3Lrc9ewvshvY0/edit?usp=sharing)
+「デバイスを利用した力学データ計測 iPhone加速度センサーを利用した身体動揺の評価」
