@@ -10,7 +10,7 @@
  <a style="margin:0 5px;" href="https://www.wantedly.com/id/naito_yuma">
   <img src="https://logo.clearbit.com/wantedly.com" width="50"  style="border-radius:10px; " />
  </a>
-  <a style="margin:0 5px;" href="https://lapras.com/public/QB2AXDH">
+  <a style="margin:0 5px;" href="https://lapras.com/public/naitoyuma">
   <img src="https://logo.clearbit.com/lapras.com" width="50"  style="border-radius:10px; " />
  </a>
    <a style="margin:0 5px;" href="https://findy-code.io/share_profiles/2C29oSrNNElKH">
