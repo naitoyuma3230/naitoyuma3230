@@ -20,7 +20,7 @@
   <img src="https://logo.clearbit.com/forkwell.com" width="50"  style="border-radius:10px; " />
  </a>
   <a style="margin:0 5px;" href="https://naito-portfolio.netlify.app">
-   <img src="https://logo.clearbit.com/naito-portfolio.netlify.app" width="40"  style="border-radius:10px; " />
+   <img src="https://logo.clearbit.com/naito-portfolio.netlify.app" width="50"  style="border-radius:10px; " />
  </a>
 </div>
 
